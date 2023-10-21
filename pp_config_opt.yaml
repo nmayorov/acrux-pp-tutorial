@@ -1,0 +1,7 @@
+log_path: ./pp_tutorial_log.vbp
+processing_mode: optimization
+align_time: true
+output_period: 0.1
+preload_ephemeris: true
+rtcm3_mode: preload
+estimate_imu_ant1: only_xy
